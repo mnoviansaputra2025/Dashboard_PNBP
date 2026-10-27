@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Capaian Kinerja PNBP",
+  "description": "Dashboard analitik capaian kinerja pendapatan negara bukan pajak (PNBP) dengan integrasi Google Sheets, visualisasi grafik interaktif, dan ekspor data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
